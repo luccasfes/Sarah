@@ -1,4 +1,4 @@
-alert("Você está preparda meu amor, fiz isso para você espero que goste, iniciar?")
+alert("Você está preparda meu amor, fiz isso para você espero que goste, iniciar ?")
 $(document).ready(function(){
 
     $(".mudaTela").click(function(){
